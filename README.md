@@ -7,7 +7,7 @@ Some facts about me:
 🏢 I have worked with various companies from small ones to these who have presence in 50+ countries and employ worldwide 15 000+ employees.
 🎓 Defended my PhD focused on Privacy by Design.
 🧑‍💼 I run a business called upsecure.com where I support various organizations with their privacy and security challenges.
-![image](https://github.com/pypetey/pypetey/assets/2168189/bc2d9658-588e-4622-8431-b32a33a3d95c)
+
 
 
 
